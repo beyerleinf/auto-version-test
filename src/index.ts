@@ -15,7 +15,6 @@ export function doSomeStuff(
   andThose: string[]
 ) {
   console.log(withThis);
-  console.log(andThat);
   console.dir(andThose);
   console.dir(andThose);
   console.log(longString, trailing, why, iWish);
